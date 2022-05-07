@@ -1,11 +1,8 @@
-# moyo-header
-
-## The task
 Create HTML page with the header using `flexbox` basing on [this mockup](https://www.figma.com/file/KAV1NnDp7hgQtPnaD6XdOcnG/Moyo-%2F-Header).
 
 ![screenshot](./references/header-example.png)
 
-### Requirements:
+# Requirements:
 - pay attention the mock is adaptive. Develop the layout to fit on 1024px and 1200px the same as on the mock.
 - reset browser default margins
 - use images from [src/images](src/images)
@@ -16,7 +13,7 @@ Create HTML page with the header using `flexbox` basing on [this mockup](https:/
 - the link with only `blue` color is an example of `:hover` styles. Every link in the row should have `blue` color on `:hover`.
 - add `data-qa="hover"` attribute to the 4th link for testing (`Ноутбуки и компьютеры`)
 
-### Tips & Hints
+## Tips & Hints
 - Check one more time if you added `data-qa="hover"` and `class="is-active"`
 required for tests
 - Do not use `tabs`. Use `2 spaces` for indentation.
